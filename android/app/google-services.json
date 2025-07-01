@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "743127979068",
+    "project_id": "scanify-devlopment",
+    "storage_bucket": "scanify-devlopment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743127979068:android:378501b5af770780a39f39",
+        "android_client_info": {
+          "package_name": "ml.sivasai.inventory_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743127979068-t0odo0rim15a4f1e7odt6ton84phe8vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsjQPeYTFHqO4F1DpDgD1S3CXdYW-ZBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743127979068-t0odo0rim15a4f1e7odt6ton84phe8vp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743127979068-1dnb35ueb090qkj7o55ps5c09q35fppe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ml.sivasai.inventoryScanner.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
