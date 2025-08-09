@@ -139,22 +139,4 @@ flutter build macos / linux / windows   # Desktop targets
 - Do **not** commit your production Firebase files (`google-services.json`, `GoogleService-Info.plist`) publicly.
 - Rotate any leaked API keys and restrict them in the Firebase console.
 
----
 
-## 🤝 Contributing
-
-1. Fork → create feature branch → commit → open PR.
-2. Keep widgets modular and follow the existing folder structure.
-3. Run `flutter analyze` before submitting.
-
----
-
-## 📄 License
-
-Specify a license (e.g., MIT) in a top‑level `LICENSE` file if you plan to open source.
-
----
-
-## 🙋 Support
-
-Open an issue or contact the maintainer if you need help.
