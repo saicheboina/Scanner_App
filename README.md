@@ -1,5 +1,5 @@
 
-# Inventory Scanner (Flutter)
+# Inventory Scanner (Flutter) Updated
 
 A cross‑platform Flutter app for scanning product barcodes, managing scanned items, and exporting/sharing results. It includes Firebase authentication (Email/Password and Google Sign‑In), a simple product details view, and CSV export.
 
